@@ -2,3 +2,5 @@ Colorize/res18-unet.pt[[:space:]]Colorize/res18-unet_2.pt[[:space:]]Colorize/res
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 /LICENSE filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
